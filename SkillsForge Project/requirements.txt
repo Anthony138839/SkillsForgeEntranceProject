@@ -1,0 +1,7 @@
+The following are libraries imported for this project:
+
+pandas - To handle data loading and manipulation
+numpy - To handle numerical computations; used this when generating root mean square error(RMSE)
+matplotlib - For static visualizations
+seaborn - To handle visualizations with statistical insights; used in the project to generate heatmap
+scikit-learn - Performs machine learning (Linear Regression, RMSE, etc.)
